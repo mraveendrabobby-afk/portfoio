@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bobby-raveendra.lovable.app/",
+      "permanent": true
+    }
+  ]
+}
